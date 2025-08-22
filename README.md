@@ -7,5 +7,5 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,figma,git)](https://skillicons.dev)
 
