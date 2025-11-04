@@ -7,5 +7,15 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,github,git)](https://skillicons.dev)
+### 🧠 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,php)](https://skillicons.dev)
+
+---
+
+### ⚙️ Tools
+
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)
+
+---
 
