@@ -19,3 +19,7 @@
 
 ---
 
+<p align="center">
+  <i>“Creativity engineered into reality.”</i> ✨
+</p>
+
