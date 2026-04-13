@@ -5,3 +5,5 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-071A2C?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@TllFabri)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/thiago-fabri-b125972ba/)](https://www.linkedin.com/in/thiago-fabri-b125972ba/)
 
+## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
+
