@@ -7,3 +7,11 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/TllFabri/TllFabri/blob/main/assets/earth.gif" width="22px" height="22px">
 
+<samp>I am Thiago Fabri, born in Brazil  🇧🇷. I have been passionate about technology from a very young age, and I always want to keep improving.
+
+<samp>I create content about technology, programming, soft skills, and career journeys, sharing practical advice and real experiences. My mission is to empower others and contribute to their growth, driven by a principle I believe in: _“success is better when it’s shared“._</samp>&nbsp;👨‍💻&nbsp;🚀
+
+- 👨‍🎓&nbsp;<samp>My academic life [__here!__](https://github.com/TllFabri/course-certificate)</samp>
+
+
+
