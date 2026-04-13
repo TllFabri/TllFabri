@@ -13,5 +13,7 @@
 
 - 👨‍🎓&nbsp;<samp>My academic life [__here!__](https://github.com/TllFabri/course-certificate)</samp>
 
+---
+
 
 
