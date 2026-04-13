@@ -1,24 +1,7 @@
 # <samp>Thiago Fabri</samp><img src="https://github.com/TllFabri/TllFabri/blob/main/assets/Link_Hello.gif" width="30px" height="30px">
 
-<hr>
-<p>🎓 systems analysis and development student at <a href="https://estacio.br/" target="blank_">Estácio</a></p>
-<p>📚 My academic journey -> <a href="https://github.com/TllFabri/course-certificate" target="blank_">Check here</a></p>
-
-<hr>
-
-### 🧠 Skills
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,php)](https://skillicons.dev)
-
----
-
-### ⚙️ Tools
-
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)
-
----
-
-<p align="center">
-  <i>“Creativity engineered into reality.”</i> ✨
-</p>
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/tfabri_/)](https://www.instagram.com/tfabri_/)
+[![X Badge](https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white&color=071A2C&link=https://x.com/TllFabri_)](https://x.com/TllFabri_)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-071A2C?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@TllFabri)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/thiago-fabri-b125972ba/)](https://www.linkedin.com/in/thiago-fabri-b125972ba/)
 
