@@ -11,6 +11,7 @@
 
 <samp>I create content about technology, programming, soft skills, and career journeys, sharing practical advice and real experiences. My mission is to empower others and contribute to their growth, driven by a principle I believe in: _“success is better when it’s shared“._</samp>&nbsp;👨‍💻&nbsp;🚀
 
+- ☕&nbsp;<samp>Java developer</samp>
 - 👨‍🎓&nbsp;<samp>My academic life [__here!__](https://github.com/TllFabri/course-certificate)</samp>
 
 ---
