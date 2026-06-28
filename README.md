@@ -7,12 +7,14 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/TllFabri/TllFabri/blob/main/assets/earth.gif" width="22px" height="22px">
 
-<samp>I am Thiago Fabri, born in Brazil  🇧🇷. I have been passionate about technology from a very young age, and I always want to keep improving.
+<samp>Desenvolvedor back-end com foco em Java e Spring Boot.
 
-<samp>I create content about technology, programming, soft skills, and career journeys, sharing practical advice and real experiences. My mission is to empower others and contribute to their growth, driven by a principle I believe in: _“success is better when it’s shared“._</samp>&nbsp;👨‍💻&nbsp;🚀
+<samp>Atualmente estou estudando Análise e Desenvolvimento de Sistemas e construindo aplicações backend do mundo real usando Java, Spring Boot, PostgreSQL e APIs REST.
 
-- ☕&nbsp;<samp>Java developer</samp>
-- 👨‍🎓&nbsp;<samp>My academic life [__here!__](https://github.com/TllFabri/course-certificate)</samp>
+Meu objetivo é me tornar um engenheiro back-end Java profissional.</samp>&nbsp;👨‍💻&nbsp;🚀
+
+- ☕&nbsp;<samp>Desenvolvedor Java</samp>
+- 👨‍🎓&nbsp;<samp>Minha vida acadêmica [__here!__](https://github.com/TllFabri/course-certificate)</samp>
 
 ---
 
