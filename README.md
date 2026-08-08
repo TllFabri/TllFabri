@@ -9,7 +9,7 @@
 
 <samp>Desenvolvedor back-end com foco em Java e Spring Boot.
 
-<samp>Atualmente estou estudando Análise e Desenvolvimento de Sistemas e construindo aplicações backend do mundo real usando Java, Spring Boot, PostgreSQL e APIs REST.
+<samp>Atualmente estou estudando Análise e Desenvolvimento de Sistemas e construindo aplicações backend do mundo real usando Java, Python, Spring Boot, PostgreSQL e AWS.
 
 Meu objetivo é me tornar um engenheiro back-end Java profissional.</samp>&nbsp;👨‍💻&nbsp;🚀
 
