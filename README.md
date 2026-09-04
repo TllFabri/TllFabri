@@ -7,15 +7,14 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/TllFabri/TllFabri/blob/main/assets/earth.gif" width="22px" height="22px">
 
-<samp>Desenvolvedor back-end com foco em Java e Spring Boot.
+<samp>Olá! Eu sou o Thiago, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor em formação.</samp>
 
-<samp>Atualmente estou estudando Análise e Desenvolvimento de Sistemas e construindo aplicações backend do mundo real usando Java, Python, Spring Boot, PostgreSQL e AWS.
+<samp>Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento de software, estudando Java, Spring Boot, PostgreSQL e desenvolvimento web, enquanto construo projetos para colocar meus conhecimentos em prática.</samp>
 
-Meu objetivo é me tornar um engenheiro back-end Java profissional.</samp>&nbsp;👨‍💻&nbsp;🚀
-
-- ☕&nbsp;<samp>Desenvolvedor Java</samp>
-- 👨‍🎓&nbsp;<samp>Minha vida acadêmica [__here!__](https://github.com/TllFabri/course-certificate)</samp>
-
+- ☕&nbsp;<samp>Focado em desenvolvimento back-end</samp>
+- 👨‍🎓&nbsp;<samp>Estudante de Análise e Desenvolvimento de Sistemas</samp>
+- 📚&nbsp;<samp>Aprendendo e desenvolvendo projetos constantemente</samp>
+- 🎓&nbsp;<samp>Minha vida acadêmica [__here!__](https://github.com/TllFabri/course-certificate)
 ---
 
 
