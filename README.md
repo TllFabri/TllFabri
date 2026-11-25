@@ -40,5 +40,3 @@
 ![CSS](https://img.shields.io/badge/CSS-071A2C?style=flat-square&logo=css&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-071A2C?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-071A2C?style=flat-square&logo=springboot&logoColor=white)
----
-<samp>📫 Vamos conversar sobre dados e automação? Me chama no [LinkedIn](https://www.linkedin.com/in/thiago-fabri-b125972ba/)!</samp>
