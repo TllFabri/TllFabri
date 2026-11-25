@@ -14,7 +14,6 @@
 
 - 📊&nbsp;<samp>Foco em dados: tratamento, SQL, relatórios e dashboards</samp>
 - ⚙️&nbsp;<samp>Automação de processos com APIs e webhooks</samp>
-- 💼&nbsp;<samp>Estagiário de TI em consultoria de negócios</samp>
 - 👨‍🎓&nbsp;<samp>Estudante de Análise e Desenvolvimento de Sistemas</samp>
 - 🎓&nbsp;<samp>Minha vida acadêmica e certificados: [__aqui!__](https://github.com/TllFabri/course-certificate)</samp>
 
@@ -41,25 +40,5 @@
 ![CSS](https://img.shields.io/badge/CSS-071A2C?style=flat-square&logo=css&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-071A2C?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-071A2C?style=flat-square&logo=springboot&logoColor=white)
-
-<samp>**Aprendendo agora** 🌱</samp><br>
-![n8n](https://img.shields.io/badge/n8n-071A2C?style=flat-square&logo=n8n&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-071A2C?style=flat-square&logo=looker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-071A2C?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjIiIHk9IjEwIiB3aWR0aD0iNSIgaGVpZ2h0PSIxMiIvPjxyZWN0IHg9IjkiIHk9IjYiIHdpZHRoPSI1IiBoZWlnaHQ9IjE2Ii8+PHJlY3QgeD0iMTYiIHk9IjIiIHdpZHRoPSI1IiBoZWlnaHQ9IjIwIi8+PC9zdmc+)
-![Google Apps Script](https://img.shields.io/badge/Apps_Script-071A2C?style=flat-square&logo=googleappsscript&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-071A2C?style=flat-square&logo=pandas&logoColor=white)
-
 ---
-
-### <samp>📌 Projetos em destaque</samp>
-
-| <samp>Projeto</samp> | <samp>O que faz</samp> | <samp>Stack</samp> |
-|---|---|---|
-| 📊 [**Análise de Risco de Crédito**](https://github.com/TllFabri/Projeto-Receita-Federal) | <samp>Processa os dados públicos da Receita Federal e permite consultar empresas por CNPJ, ver o Quadro de Sócios (QSA) e identificar vínculos societários entre empresas.</samp> | <samp>Python · PostgreSQL · JavaScript</samp> |
-| 🔌 [**Forum API**](https://github.com/TllFabri/forum-api) | <samp>API REST com usuários, posts e comentários, organizada em camadas e com autenticação.</samp> | <samp>Java · Spring Boot · PostgreSQL</samp> |
-| 🥖 [**Padaria Santo Antônio**](https://github.com/TllFabri/padaria-santo-antonio) | <samp>Site institucional vendido como freelancer, com encomendas direto pelo WhatsApp.</samp> | <samp>HTML · CSS · JavaScript</samp> |
-| 🌐 [**Portfólio**](https://tfabri.vercel.app) | <samp>Meu site pessoal, com tema claro/escuro e PT/EN.</samp> | <samp>HTML · CSS · JavaScript</samp> |
-
----
-
 <samp>📫 Vamos conversar sobre dados e automação? Me chama no [LinkedIn](https://www.linkedin.com/in/thiago-fabri-b125972ba/)!</samp>
